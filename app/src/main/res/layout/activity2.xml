@@ -15,7 +15,7 @@
             android:id="@+id/txtVoted"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@drawable/ic_launcher_background"
+            android:background="@android:drawable/alert_light_frame"
             android:textSize="24sp" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
